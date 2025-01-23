@@ -11,15 +11,15 @@
     "profiles": [
       { "network": "github", "username": "huykimb", "url": "http://github.com/huykimb" },
       { "network": "linkedin", "username": "huykimb", "url": "http://linkedin.com/in/huykimb" },
-      { "network": "instagram", "username": "bobbirdie", "url": "http://instagram.com/kiimb.ely" }
+      { "network": "instagram", "username": "kiimb.ely", "url": "http://instagram.com/kiimb.ely" }
     ]
   }, 
   "interests": [
     { "name": "Robotics" },
-    { "name": "App development" },
-    { "name": "Web development" },
+    { "name": "App Development" },
+    { "name": "Web Development" },
     { "name": "ML/AI" },
-    { "name": "" }
+    { "name": "Birdwatching" },
     { "name": "Video Games" },
     { "name": "Art" }
   ],

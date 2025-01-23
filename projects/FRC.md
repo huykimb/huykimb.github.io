@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
-date: 2015
+title: "Robotics Competition"
+date: 2022
 published: true
 labels:
   - Robotics
-  - Arduino
-  - C++
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+  - Mechanical
+  - Woodworking
+summary: "My team developed a robot that placed as finalists for the 2022 Hawaii Regional First Robotics Competition."
 ---
 
 <div class="text-center p-4">

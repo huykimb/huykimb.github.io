@@ -4,21 +4,24 @@
     "label": "Student",
     "picture": "https://avatars.githubusercontent.com/u/144314381?v=4",
     "email": "khngu@hawaii.edu",
-    "phone": "808-333-4444",
+    "phone": "808-230-7165",
     "website": "https://huykimb.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
+    "summary": "I am studying B.S. Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring 2027.",
     "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "kimb82", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "kimb82", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "kimb82", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "huykimb", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "huykimb", "url": "http://github.com/huykimb" },
+      { "network": "linkedin", "username": "huykimb", "url": "http://linkedin.com/in/huykimb" },
+      { "network": "instagram", "username": "bobbirdie", "url": "http://instagram.com/kiimb.ely" }
     ]
   }, 
   "interests": [
     { "name": "Robotics" },
-    
-    { "name": "3D Graphics" }
+    { "name": "App development" },
+    { "name": "Web development" },
+    { "name": "ML/AI" },
+    { "name": "" }
+    { "name": "Video Games" },
+    { "name": "Art" }
   ],
   "skills": [
     {

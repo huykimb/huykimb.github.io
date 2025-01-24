@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflect on Typescript"
+title: "The Journey To Discovering Typescript"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-23
 published: true
@@ -11,7 +11,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*The Journey To Discovering Typescript*
+*Reflection on Typescript*
 
 
 ## Introduction to Coding

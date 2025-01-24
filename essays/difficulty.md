@@ -21,20 +21,4 @@ When I was in middle school, I had the chance to take a coding class for the fir
 
 ## Discovering Typescript
 
-If I was being honest, I didn't even know that Typescript was a thing until a few weeks ago. 
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+I didn't know that Typescript was a language that existed until a few weeks ago. When I was preparing for the semester by reviewing Javascript and HTML/CSS, I heard some mentions of Typescript, but I thought it was a completely separate language from Javascript so I wouldn’t have to worry about it. When I discovered that I had to learn it alongside Javascript, I was worried that it would be hard, but thankfully they were similar. I think it’s useful since it can be used to catch errors that Javascript has. This style of learning is new to me, but I think it’s useful since I can actually apply the things I learn from each module directly on the assignments. I’m still in the process of learning the languages so I’ve made a lot of mistakes, but I hope to keep improving and using it to successfully complete WODs and use it for future projects. 

@@ -22,3 +22,5 @@ When I was in middle school, I had the chance to take a coding class for the fir
 ## Discovering Typescript
 
 I didn't know that Typescript was a language that existed until a few weeks ago. When I was preparing for the semester by reviewing Javascript and HTML/CSS, I heard some mentions of Typescript, but I thought it was a completely separate language from Javascript so I wouldn’t have to worry about it. When I discovered that I had to learn it alongside Javascript, I was worried that it would be hard, but thankfully they were similar. I think it’s useful since it can be used to catch errors that Javascript has. This style of learning is new to me, but I think it’s useful since I can actually apply the things I learn from each module directly on the assignments. I’m still in the process of learning the languages so I’ve made a lot of mistakes, but I hope to keep improving and using it to successfully complete WODs and use it for future projects. 
+
+*No AI Used*

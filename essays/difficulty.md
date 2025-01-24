@@ -12,7 +12,6 @@ labels:
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
 
-<img width="200px" alt="image" src="https://github.com/user-attachments/assets/d3425eb7-1b60-4ff1-8c6c-01fe871e2638" />
 
 
 *Reflection on Typescript*

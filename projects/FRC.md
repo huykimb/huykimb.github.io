@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/micromouse/IMG_6055.JPG
 title: "Robotics Competition"
 date: 2022
 published: true

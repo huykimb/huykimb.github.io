@@ -9,7 +9,7 @@ labels:
   - Robotics
   - Mechanical
   - Woodworking
-summary: "My team developed a robot that placed as finalists for the 2022 Hawaii Regional First Robotics Competition."
+summary: "My team developed a robot that placed as finalists for the Hawaii Regional First Robotics Competition."
 ---
 
 <div class="text-center p-4">
@@ -17,6 +17,12 @@ summary: "My team developed a robot that placed as finalists for the 2022 Hawaii
   <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
+
+When I started highschool and went to the club fairs for the first time, I saw that there was a Robotics club. I was tempted to join, but decided against it because I thought that it would be too difficult and intimidating being by myself since none of my friends at the time were interested in Robotics. Then, after COVID, my engineering teacher approached me in my junior year to see if I would be interested in joining the Robotics team, along with my other friend who was in robotics previously. I hadn't known it at the time, but she was in the Robotics club in freshman year. Since I was still interested in it, I decided to join with her, along with another friend that we convinced to join with us. 
+
+When I went to the introductory meeting, the advisors warned us that the club would be a lot of commitemnt, with studnents having to stay until late hours in the day from after school to midnight, and even a whole day after, where they would work on the robot until morning in severe cases. However, I still stayed despite this because I wanted to see for myself what the club was like and I thought the concept of building a robot was cool. 
+
+When I officially joined, I was given 2 choices: join the mechanical team or the electrical team. The mechanical team would involve working on building and planning the compartments of the robot. Then, the electrical team would involve working on the electrical side of things, like combining wires and fiddling with a raspberry pi to control the robot. Then, even though I wanted to join the electrical team because it involved coding, I decided to join the mechanical team with my friend to even out the numbers since if I joined the electrical team, there would only be 2 people on the mechanical team. 
 
 Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
 

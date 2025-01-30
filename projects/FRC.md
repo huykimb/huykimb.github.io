@@ -13,8 +13,8 @@ summary: "My team developed a robot that placed as finalists for the Hawaii Regi
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/micromouse/IMG_6055.JPG" class="img-thumbnail" >
+  <img width="200px" src="../img/micromouse/IMG_6025.jpeg" class="img-thumbnail" >
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 

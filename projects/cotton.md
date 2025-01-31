@@ -18,7 +18,7 @@ During the summer before my freshman year of entering university, I was still de
 Below is some code that I've written for the program: 
 
 Script for ball:
-
+```
 public class Ball : MonoBehaviour
 {
     public float speed = 1000.0f;
@@ -43,3 +43,4 @@ public class Ball : MonoBehaviour
         _rigidbody.AddForce(direction * this.speed);
     }
 }
+```

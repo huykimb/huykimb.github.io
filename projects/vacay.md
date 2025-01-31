@@ -8,11 +8,10 @@ published: true
 labels:
   - Life
   - Hobby
-  - Art
+  - Drawing
 summary: "Projects I've worked on related to art."
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
 
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+During my life, I've done a couple of art projects for contests, school, and just as a personal hobby.

@@ -8,12 +8,10 @@ published: true
 labels:
   - Lisp
   - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+summary: "A pong project that I attempted during the summer before my freshman year."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
-
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
 To give you a flavor of the game, here is an excerpt from one run:
 

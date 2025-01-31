@@ -11,8 +11,6 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
-
 ## Smart Questions
 
 There are different ways to define a smart question, but the most common way to tell that it's smart is that it's noticeably a question that the original poster has attempted to find the answer themselves first through their own means, and if they can't find them, then their question posted on Stack Overflow should be formatted in a way that shows that they've already researched how to answer the question themselves but might need more clarification. For example, they might provide their own code that has issues that they can't resolve but shows that they've attempted it themselves beforehand. Another obvious sign that it's smart is if it's not outright asking for homework answers and such since asking those types of questions isn't meaningful and doesn't help the person who asked or other people who might see the post learn. 

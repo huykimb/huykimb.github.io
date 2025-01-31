@@ -22,7 +22,7 @@ When I went to the introductory meeting, the advisors warned us that the club wo
 
 When I officially joined, I was given 2 choices: join the mechanical team or the electrical team. The mechanical team would work on assembling and planning the compartments of the robot. Then, the electrical team would involve working on the electrical side of things, like coding and fiddling with a raspberry pi to control the robot. I wanted to join the electrical team because the idea of coding a robot sounded cool. However, in the end, I decided to join the mechanical team with my friend to even out the numbers since joining the electrical team would mean that only two people would be working on the mechanical side of things. 
 
-<img width="400px" class="rounded float-start pe-4" src="../img/micromouse/IMG_6055.JPG">
+<img width="400px" class="rounded float-start pe-4" src="../img/micromouse/IMG_6023.jpeg">
 
 I had a difficult time adjusting to everything at first, since I had zero prior knowledge and experience using tools and machinery. I had to learn all of the terminology and specific uses for tools quickly since everything we did had to be finished before the competition time. However, once I tried using the tools first-hand, I was able to keep up with my team. 
 

@@ -19,5 +19,11 @@ During my life, I've done a couple of art projects for contests, school, and jus
 Art that I've done for the Game Dev club at UH Manoa:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/vacay/neutral.png">
+
 <img width="200px" class="rounded float-start pe-4" src="../img/vacay/water splash.gif">
+
 <img width="200px" class="rounded float-start pe-4" src="../img/vacay/water.gif">
+
+Anthology Project for my ENG100 Class:
+
+<img width="200px" class="rounded float-start pe-4" src="../img/vacay/dwdascsdcasn_s.png">

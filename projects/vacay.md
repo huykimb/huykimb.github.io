@@ -15,7 +15,7 @@ summary: "Projects I've worked on related to art."
 
 <div class="text-center p-4 d-flex flex-wrap gap-4">
   <div class="text-center">
-    <img width="200px" class="rounded" src="../img/vacay/24ink d24.png">
+    <img width="500px" class="rounded" src="../img/vacay/24ink d24.png">
   </div>
 
   <div class="text-center">
@@ -24,8 +24,8 @@ summary: "Projects I've worked on related to art."
   </div>
 
   <div class="text-center">
-    <img width="200px" class="rounded" src="../img/vacay/dwdascsdcasn_s.png">
-    <p></p>
+    <img width="500px" class="rounded" src="../img/vacay/dwdascsdcasn_s.png">
+    <p>Final Antholoy Project for ENG100</p>
   </div>
 </div>
 

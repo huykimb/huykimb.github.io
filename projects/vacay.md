@@ -24,16 +24,6 @@ summary: "Projects I've worked on related to art."
   </div>
 
   <div class="text-center">
-    <img width="200px" class="rounded" src="../img/vacay/water splash.gif">
-    <p></p>
-  </div>
-
-  <div class="text-center">
-    <img width="200px" class="rounded" src="../img/vacay/water.gif">
-    <p></p>
-  </div>
-
-  <div class="text-center">
     <img width="200px" class="rounded" src="../img/vacay/dwdascsdcasn_s.png">
     <p></p>
   </div>

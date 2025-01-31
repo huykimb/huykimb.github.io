@@ -14,18 +14,22 @@ summary: "Projects I've worked on related to art."
 
 <div class="text-center p-4">
   <img width="400px" class="rounded float-start pe-4" src="../img/vacay/24ink d24.png">
+  
+  <img width="200px" class="rounded float-start pe-4" src="../img/vacay/neutral.png">
+
+  <img width="200px" class="rounded float-start pe-4" src="../img/vacay/water splash.gif">
+
+  <img width="200px" class="rounded float-start pe-4" src="../img/vacay/water.gif">
+
+  <img width="500px" class="rounded float-start pe-4" src="../img/vacay/dwdascsdcasn_s.png">
 </div>
 
 During my life, I've done a couple of art projects for contests, school, and just as a personal hobby.
 
 Art that I've done for the Game Dev club at UH Manoa:
 
-<img width="200px" class="rounded float-start pe-4" src="../img/vacay/neutral.png">
 
-<img width="200px" class="rounded float-start pe-4" src="../img/vacay/water splash.gif">
-
-<img width="200px" class="rounded float-start pe-4" src="../img/vacay/water.gif">
 
 Anthology Project for my ENG100 Class:
 
-<img width="500px" class="rounded float-start pe-4" src="../img/vacay/dwdascsdcasn_s.png">
+

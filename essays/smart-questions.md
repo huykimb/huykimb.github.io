@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/igniting/simone-secci-49uySSA678U-unsplash.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/smart-questions/simone-secci-49uySSA678U-unsplash.jpg">
 
 ## Smart Questions
 

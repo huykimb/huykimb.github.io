@@ -24,6 +24,8 @@ When I officially joined, I was given 2 choices: join the mechanical team or the
 
 I had a difficult time adjusting to everything at first, since I had zero prior knowledge and experience using tools and machinery. I had to learn all of the terminology and specific uses for tools quickly since everything we did had to be finished before the competition time. However, once I tried using the tools first-hand, I was able to keep up with my team. 
 
-For this project, I had to take measurements to make sure that all of the parts were able to fit together, then assemble the parts using mechanical tools, and plan and discuss with my team to form the designs of the body and functions of the robot. Then, my mentors would come in and take care of the more complex things like welding and using the laser cutting machine.  
+For this project, I had to take measurements to make sure that all of the parts were able to fit together, then assemble the parts using mechanical tools, and plan and discuss with my team to form the designs of the body and functions of the robot. Then, my mentors would come in and take care of the more complex things like welding and laser cutting.
+
+Overall, it was a difficult but rewarding experience. I had some regrets, like not trying out the electrical team and not being able to contribute to the best of my abilities due to my lack of knowledge, but I don't regret the time I spent in robotics because of the many things I learned and the fun I had. 
 
 

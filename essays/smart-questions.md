@@ -47,7 +47,7 @@ My question is, why does Stack Overflow do this?
 Why is inserting invisible characters into code snippets and effectively creating debugging nightmares considered a good solution?
 ```
 
-The way that the author formatted this question shows that they have already taken time to understand what their problem is and attempted to resolve it on their own. Then, they gave snippets of their code, as well as the errors, and asked a valid question to better understand why they ran into their issue. This is also a potential question that other people might have, so it's helpful as well. 
+The way that the author formatted this question shows that they have already taken time to understand what their problem is and attempted to resolve it on their own. Then, they gave snippets of their code, as well as the errors, and asked a valid question to better understand why they ran into their issue. This is also a potential question that other people might have, so it's helpful for others to reference from in the future.
 
 On the contrary, there are bad questions.
 
@@ -56,11 +56,9 @@ On the contrary, there are bad questions.
 An example of a not-so-smart question is this: 
 
 ```
-
+What is the Perl equivalent of Python's time.time(), which returns the system time in fractional seconds?
 ```
- 
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
+That was the only sentence written in the question, with no other context or code provided. This is a poorly written question because the answer can be easily found online if the author simply looked for it. These types of questions are "bad" because it's not worth answering and isn't meaningful in any way that would help other people.
 
 ## Conclusion
-
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+It may be tempting to ask questions on Stack Overflow and expect a solution immediately, but before asking, it's best to think about whether it's smart or not. People should first think of whether it's a question that has been asked before, and if the solutions are already provided online. 

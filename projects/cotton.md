@@ -61,16 +61,4 @@ public class ComputerPaddle : Paddle
                 _rigidbody.AddForce(Vector2.down * this.speed);
             }
         }
-        else
-        {
-            if (this.transform.position.y > 0.0f)
-            {
-                _rigidbody.AddForce(Vector2.down * this.speed);
-            }
-            else if (this.transform.position.y < 0.0f)
-            {
-                _rigidbody.AddForce(Vector2.up * this.speed);
-            }
-        }
-    }
-}
+...

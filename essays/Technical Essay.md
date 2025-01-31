@@ -16,4 +16,4 @@ I was first introduced to programming by my 4th grade teacher who invited over h
 
 Some things that I've found interesting that I hadn't before are web development, front-end and back-end, software development, mobile development, game development, and robotics. I haven't done anything related to AI/ML yet, but I find that interesting too so I hope to try something with it eventually, and I want to try learning a bit of cybersecurity and data science as well. But realistically, I can't do these all, so I hope to focus on either software/mobile development or web development first and then try the other things out on the side once I have a good grasp on them.
 
-For now, I hope to develop my skills more by working on personal projects to completion, as well as getting involved in research projects and such to become more involved and learn programming in a professional setting.
+For now, I hope to develop my skills more by working on and finishing personal projects in more languages, as well as getting involved in research projects and such to become more involved and learn programming in a professional setting. 

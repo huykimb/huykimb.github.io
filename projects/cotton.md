@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/cotton/Illustration3.png
-title: "Cotton"
+title: "Pong"
 date: 2023
 published: true
 labels:

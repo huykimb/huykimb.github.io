@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/cotton/Illustration3.png
 title: "Cotton"
-date: 2014
+date: 2023
 published: true
 labels:
   - C#

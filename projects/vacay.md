@@ -12,6 +12,10 @@ labels:
 summary: "Projects I've worked on related to art."
 ---
 
+During my life, I've done a couple of art projects for contests, school, and just as a personal hobby.
+
+I've included recent art I've done in the past year for the Game Dev club at UH Manoa and my final Anthology Project for my ENG100 Class.
+
 
 <div class="text-center p-4 d-flex flex-wrap gap-4">
   <div class="text-center">
@@ -29,8 +33,5 @@ summary: "Projects I've worked on related to art."
   </div>
 </div>
 
-During my life, I've done a couple of art projects for contests, school, and just as a personal hobby.
-
-I've included art that I've done for the Game Dev club at UH Manoa and my final Anthology Project for my ENG100 Class.
 
 

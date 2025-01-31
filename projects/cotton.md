@@ -6,52 +6,69 @@ title: "Cotton"
 date: 2014
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A pong project that I attempted during the summer before my freshman year."
+  - C#
+  - Unity
+summary: "A pong project that I attempted to complete during the summer before my freshman year."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
 
-To give you a flavor of the game, here is an excerpt from one run:
+During the summer before my freshman year of entering university, I was still deciding on my major and what I wanted to do in the future. After some time and discussions with my family, I decided that I wanted to do computer science. This decision motivated me to start on a game project since what initially drove me to pursue programming was game development. However, I was a complete beginner and didn't how to start, so I followed a simple tutorial on how to build a pong game program using the Unity engine. I made assets for the game, as well as referencing code that was provided in the tutorial. I wanted to finish the project before school began, but I ran into some issues in coding the physics of the ball bouncing off the paddles and was unable to get it to work properly, so I left it unfinished until now and probably will leave it at that. Although it's left unfinished, it's one of the projects that introduced me to programming and that I found fun to work on. 
 
-<hr>
+Below is some code that I've written for the program: 
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+Script for ball:
+public class Ball : MonoBehaviour
+{
+    public float speed = 1000.0f;
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+    private Rigidbody2D _rigidbody;
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+    private void Awake()
+    {
+        _rigidbody = GetComponent<Rigidbody2D>();
+    }
+    private void Start()
+    {
+        AddStartingForce();
+    }
+    private void AddStartingForce()
+    {
+        float x = Random.value < 0.5f ? -1.0f : 1.0f;
+        float y = Random.value < 0.5f ? Random.Range(-1.0f, -0.5f) : 
+                                        Random.Range(0.5f, 1.0f);
 
-pickup candle
-- you are now carrying the candle -
+        Vector2 direction = new Vector2(x, y);
+        _rigidbody.AddForce(direction * this.speed);
+    }
+}
 
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Script for the opponent paddle:
+public class ComputerPaddle : Paddle
+{
+    public Rigidbody2D ball;
+    private void FixedUpdate()
+    {
+        if (this.ball.velocity.x > 0.0f)
+        {
+            if (this.ball.position.y > this.transform.position.y)
+            {
+                _rigidbody.AddForce(Vector2.up * this.speed);
+            } else if (this.ball.position.y < this.transform.position.y)
+            {
+                _rigidbody.AddForce(Vector2.down * this.speed);
+            }
+        }
+        else
+        {
+            if (this.transform.position.y > 0.0f)
+            {
+                _rigidbody.AddForce(Vector2.down * this.speed);
+            }
+            else if (this.transform.position.y < 0.0f)
+            {
+                _rigidbody.AddForce(Vector2.up * this.speed);
+            }
+        }
+    }
+}

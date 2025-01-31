@@ -13,7 +13,7 @@ summary: "My team developed a robot that placed as finalists for the Hawaii Regi
 ---
 
 <div class="text-center p-4">
-  <img width="550px" class="rounded float-start pe-4" src="../img/micromouse/IMG_6055.JPG">
+  <img width="400px" class="rounded float-start pe-4" src="../img/micromouse/IMG_6055.JPG">
 </div>
 
 When I started highschool and went to the club fairs for the first time, one of the clubs that stood out to me was the robotics club. I was tempted to join, but decided against it because I thought that it would be too difficult and intimidating being by myself since none of my friends at the time were interested in robotics. Fast-forward a few years, my engineering teacher approached me in my junior year to see if I would be interested in joining the Robotics team along with my other friend who I hadn't known before was previously in robotics in our freshman year. Since I was still interested in robotics, I decided to join with her, along with another friend that we convinced to join with us. 

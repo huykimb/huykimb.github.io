@@ -29,7 +29,7 @@ I've included recent art I've done in the past year for the Game Dev club at UH 
 
   <div class="text-center">
     <img width="500px" class="rounded" src="../img/vacay/dwdascsdcasn_s.png">
-    <p>Final Antholoy Project for ENG100</p>
+    <p>Final Anthology Project for ENG100</p>
   </div>
 </div>
 

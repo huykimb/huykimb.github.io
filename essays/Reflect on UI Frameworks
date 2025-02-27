@@ -1,0 +1,13 @@
+---
+layout: essay
+type: essay
+title: "Technical Essay"
+# All dates must be YYYY-MM-DD format!
+date: 2025-01-30
+published: true
+labels:
+  - Software Engineering
+  - Learning
+---
+
+<img width="400px" class="rounded float-start pe-4" src="../img/igniting/oskar-yildiz-cOkpTiJMGzA-unsplash.jpg">

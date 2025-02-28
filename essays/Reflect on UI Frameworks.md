@@ -24,7 +24,7 @@ When I learned that we would have to build our projects using Bootstrap 5, I was
 ## Perks and Downsides of UI Frameworks
 I don’t think it’s efficient to use raw HTML and CSS to build websites from scratch because it would be too time consuming to create each component individually. However, I think it’s situational and case-by-case, because if I was hypothetically given a task by my team to create something specific for our website for a project, I might be better off with attempting to build it on my own rather than relying on a framework because then I have more control over how it works and what goes where and I won’t be limited to just the resources and templates that the framework provides me. However, if the project requested something simpler or less emphasis was placed on building custom objects for the front-end aspect of the website, using frameworks would undoubtedly be the better option because then it gives me enough freedom to still customize my page according to the project’s requirements, while also allowing me to spend less time on it and working through it faster with the assistance of presets.   
 
-<img width="450px" class="rounded float-start pe-4" src="../img/difficulty/attempt1.png">
+<img width="490px" class="rounded float-start pe-4" src="../img/difficulty/attempt1.png">
 My Attempt at recreating a website using HTML, CSS, and Bootstrap 5
 
 ## Conclusion

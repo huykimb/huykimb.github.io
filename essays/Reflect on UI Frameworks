@@ -1,13 +1,29 @@
 ---
 layout: essay
 type: essay
-title: "Technical Essay"
+title: "Reflection on UI Frameworks"
 # All dates must be YYYY-MM-DD format!
-date: 2025-01-30
+date: 2025-02-27
 published: true
 labels:
-  - Software Engineering
-  - Learning
+  - Bootstrap 5
+  - HTML/CSS
+  - VSCode
+
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/igniting/oskar-yildiz-cOkpTiJMGzA-unsplash.jpg">
+
+
+*UI Frameworks*
+
+
+## Introduction to Bootstrap 5
+During the process of learning HTML and CSS, I was able to use the experience and concepts I had learned before taking the class to apply to the websites that I had to build for my assignments and WODs. 
+
+When I learned that we would have to build our projects using Bootstrap 5, I was excited because it was one of the first frameworks that I had ever heard of. I was already aware that it was one of the more popular things to use in the field and something that potential employers might be interested in since it was something that I commonly saw in other people’s resumes. Other than Bootstrap, I’ve heard of other frameworks like Angular and Tailwind, which I’m also hoping to use eventually since I haven’t had the chance to try them yet.
+
+
+<img width="230px" class="rounded float-start pe-4" src="../img/difficulty/allec-gomes-TWtnNL2MQCw-unsplash.jpg">
+
+## Perks and Downsides of UI Frameworks
+I don’t think it’s efficient to use raw HTML and CSS to build websites from scratch because it would be too time consuming to create everything individually. However, I think it’s situational and case-by-case, because if I was given a task by my team to create something specific for their website for a project, I might be better off with creating it on my own rather than relying on a framework because then I have more control over how it works and what goes where and I won’t be limited to just the resources and templates that the framework provides me. However, if the project was something more simple and less customized, 

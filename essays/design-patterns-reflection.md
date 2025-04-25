@@ -14,9 +14,9 @@ labels:
 *Comparing Design Patterns to the Real-World*
 
 
-## 
+##
 
 
-<img width="550px" class="rounded float-start pe-4" src="../img/difficulty/javiera-argandona-aIN3UsyUw18-unsplash.jpg">
+<img width="550px" class="rounded float-start pe-4" src="../img/kelly-sikkema-v9FQR4tbIq8-unsplash.jpg">
 
 ## 

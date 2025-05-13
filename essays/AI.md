@@ -8,8 +8,6 @@ published: true
 labels:
   - AI
   - Reflection
-  - ChatGPT
-  - Github Copilot
   - Education
 ---
 

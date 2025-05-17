@@ -19,14 +19,13 @@
     { "name": "App Development" },
     { "name": "Web Development" },
     { "name": "ML/AI" },
-    { "name": "Birdwatching" },
     { "name": "Video Games" },
     { "name": "Art" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "Java", "Javascript", "Typescript", "Python" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Typescript", "Python", "Bootstrap", "React" ]
     },
     {
       "name": "Toolsets/OS",

@@ -15,7 +15,7 @@ labels:
 summary: "The final project that I worked on with my team for ICS 314 Software Engineering."
 ---
 
-<img class="img-fluid" src="../img/314proj.png">
+<img width=300px class="img-fluid" src="../img/314proj.png">
 
 For my final project that I did for my ICS 314 class, I worked in a team of five to create a gym meetup website which would help students meet with other students to create a buddy system and support each other at the gym. It features a profile page, an exploration page, a calendar with all of the students' available times and a place where you can select different exercise options for each day, and a landing page where you can sign up and login. For this project, my main tasks were to create the homepage and the calendar page, and other things that I worked together with my team were the navbar and footer. 
 

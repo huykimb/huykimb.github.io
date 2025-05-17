@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/314proj.png
+image: img/314proj2.png
 title: "ICS 314 Final Project"
 date: 2025
 published: true
@@ -17,34 +17,9 @@ summary: "The final project that I worked on with my team for ICS 314 Software E
 
 <img class="img-fluid" src="../img/314proj.png">
 
-During the summer before my freshman year of entering university, I was still deciding on my major and what I wanted to do as a career. After some time and discussions with my family, I decided that I wanted to do computer science. This decisive moment motivated me to start on a game project since what initially inspired me to pursue programming was game development. However, I was a complete beginner and didn't how to start, so I followed a simple tutorial on how to build a pong game program using the Unity engine. I made assets for the game, as well as referencing code that was provided in the tutorial. I wanted to finish the project before school began, but I ran into some issues in coding the physics of the ball bouncing off the paddles and was unable to get it to work properly, so I left it unfinished until now and probably will leave it at that. Although it's left unfinished, it's one of the projects that introduced me to programming and that I found fun to work on. 
+For my final project that I did for my ICS 314 class, I worked in a team of five to create a gym meetup website which would help students meet with other students to create a buddy system and support each other at the gym. It features a profile page, an exploration page, a calendar with all of the students' available times and a place where you can select different exercise options for each day, and a landing page where you can sign up and login. For this project, my main tasks were to create the homepage and the calendar page, and other things that I worked together with my team were the navbar and footer. 
 
-Below is some code that I've written for the program: 
+From this project, I learned how to connect pages together, how to navigate and use the GitHub environment (Pull Requests, Issues, Merging Branches, etc.), things like React and Bootstrap, and how to collaborate effectively. One thing that I wished I had worked on more was the database. I felt more comfortable working on the UI and Javascript, but I feel like it would've been a good learning experience working on the back-end, which was unfortunate. However, I learned a lot from this project overall, and I got to work on a big coding project with a team for the first time. 
 
-Script for ball:
-```
-public class Ball : MonoBehaviour
-{
-    public float speed = 1000.0f;
+For more information on the project, check out our Github Organization for the source code: https://github.com/gym-meet
 
-    private Rigidbody2D _rigidbody;
-
-    private void Awake()
-    {
-        _rigidbody = GetComponent<Rigidbody2D>();
-    }
-    private void Start()
-    {
-        AddStartingForce();
-    }
-    private void AddStartingForce()
-    {
-        float x = Random.value < 0.5f ? -1.0f : 1.0f;
-        float y = Random.value < 0.5f ? Random.Range(-1.0f, -0.5f) : 
-                                        Random.Range(0.5f, 1.0f);
-
-        Vector2 direction = new Vector2(x, y);
-        _rigidbody.AddForce(direction * this.speed);
-    }
-}
-```

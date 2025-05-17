@@ -4,7 +4,7 @@ type: project
 image: img/vacay/nasksdsv_same.png
 title: "Art"
 date: 2025
-published: true
+published: false
 labels:
   - Life
   - Hobby

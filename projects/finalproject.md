@@ -20,5 +20,5 @@ For my final project that I did for my ICS 314 class, I worked in a team of five
 
 From this project, I learned how to connect pages together, how to navigate and use the GitHub environment (Pull Requests, Issues, Merging Branches, etc.), improving my skills in things like React and Bootstrap, and how to collaborate effectively. One thing that I wished I had worked on more was the database. I felt more comfortable working on the UI and Javascript, but I feel like it would've been a good learning experience working on the back-end, which was unfortunate. However, I learned a lot from this project overall, and I got to work on a big coding project with a team for the first time. 
 
-For more information on the project, check out our Github Organization for the source code: <a href="https://github.com/gym-meet">[link text](https://github.com/gym-meet)</a>
+For more information on the project, check out our Github Organization for the source code: <a href="https://github.com/gym-meet">[Gym Meet](https://github.com/gym-meet)</a>
 

@@ -19,8 +19,6 @@ labels:
 ## Introduction
 AI has always been a controversial topic since its rise in popularity in technical, academic, and creative fields. Because of this, some people are either heavily against it or support its use in education. I believe that the use of AI is acceptable, but only when it’s used properly and not used in a way that gets in the way of learning. For this course, I primarily used ChatGPT and Github Copilot. 
 
-<img width="490px" class="rounded float-start pe-4" src="../img/adel-z-tVZlDgl5ZS4-unsplash.jpg">
-
 ## Personal Experience with AI
 I initially had concerns about using AI in this class as it would be considered cheating in other courses and I felt that the optimal way to learn was teaching myself, but since we were allowed to, I found that I could use it freely in my learning and as a resource to learn from and get immediate feedback, especially on concepts that I found difficult. I also used it whenever I struggled to setup programs or ran into technical issues that I could not figure out on my own. For example, I found it difficult to set up things like Prisma and PostgreSQL for the Experience WODs, as they required installation through the terminal, which would give me errors when I tried to install them directly following the instruction guides on their websites. AI was a great help in this aspect, as I could figure out the issues step-by-step and resolve them through the answers that it provided. 
 

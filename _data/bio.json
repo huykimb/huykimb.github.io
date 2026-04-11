@@ -25,11 +25,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Typescript", "Python", "Bootstrap", "React", "Nextjs" ]
+      "keywords": [ "C", "C++", "Java", "JavaScript", "TypeScript", "Python", "Bootstrap", "React", "Nextjs" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows", "Git/GitHub" ]
+      "keywords": [ "MacOS", "Windows", "Git", "Linux" ]
     }
   ],
   "education": [
@@ -44,6 +44,17 @@
     }
   ],
   "work": [
+    {
+      "company": "Manoa Now",
+      "position": "Software Engineer",
+      "website": "https://manoanow.org/",
+      "startDate": "2026-03-05",
+      "endDate": "Present",
+      "summary": "Redesigning the official Manoa Now app and keeping the website updated",
+      "highlights": [
+        "Implementing updated UI to the Manoa Now app with real-time data fetching and authentication using Firebase, built on React Native"
+      ]
+    },
     {
       "company": "TRIO Manoa",
       "position": "Ambassador",
